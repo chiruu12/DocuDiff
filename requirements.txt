@@ -1,0 +1,6 @@
+streamlit
+PyMuPDF
+groq
+fitz
+python-dotenv
+tiktoken
